@@ -30,15 +30,15 @@ client:
 CTAs:
   first_CTA_text: Contact
   first_CTA_URL: https://deanadler.com/contact-us/
-  second_CTA_text: Mortgage Calculator
-  second_CTA_URL: https://deanadler.com/mortgage-basics/mortgage-calculator/
+  second_CTA_text: Apply Now
+  second_CTA_URL: https://deanadler.com/wp-content/uploads/sites/4/2016/08/Short-Form-1003.pdf
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Mortgage Basics"
-    CTA_text: "Find out how much you can afford."
-    CTA_link_text: "Mortgage Calculator"
-    CTA_url: https://deanadler.com/mortgage-basics/mortgage-calculator/
+    CTA_title: "Mortgage Application"
+    CTA_text: "Fill out form to apply"
+    CTA_link_text: "Apply Now"
+    CTA_url: https://deanadler.com/wp-content/uploads/sites/4/2016/08/Short-Form-1003.pdf
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
