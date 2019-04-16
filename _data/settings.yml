@@ -41,7 +41,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Mortgage Application"
-    CTA_text: "Fill out form today to apply"
+    CTA_text: "Fill out the form today to apply"
     CTA_link_text: "Apply Now"
     CTA_url: https://deanadler.com/wp-content/uploads/sites/4/2016/08/Short-Form-1003.pdf
 
