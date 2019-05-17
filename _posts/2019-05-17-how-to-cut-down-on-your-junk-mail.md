@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Cut Down On Your Junk Mail
-date: 2019-05-17 20:01:56
+date: 2019-05-17 20:01:00
 tags:
   - Real Estate
 excerpt: Are you tired of junk mail? Then this message is for you.
