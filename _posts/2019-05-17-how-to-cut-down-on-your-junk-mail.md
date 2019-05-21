@@ -29,7 +29,7 @@ You have a couple of ways you can remove your name from the mailing lists that j
 
 **1\. Visit [www.optoutprescreen.com](https://www.optoutprescreen.com/){: target="_blank"}.** This web portal, run by the three major credit bureaus I mentioned earlier, allows you to opt out for a five-year period or for life.&nbsp;
 
-**2\. Call 888-5OP-TOUT (888-567-8688).** This number will direct you to the same portal as the website I mentioned earlier. However, by calling this line, you can only choose to opt out for a five-year period. Be prepared to answer a few personal questions when you make this call. But don’t worry—this information will never be shared, however, and will simply be used to remove you from their mailing lists.&nbsp;
+**2\. Call 888-5OP-TOUT (888-567-8688).** This number will direct you to the same portal as the website I mentioned earlier. However, by calling this line, you can only choose to opt out for a five-year period. Be prepared to answer a few personal questions when you make this call. But don’t worry—this information will never be shared. It will simply be used to remove you from their mailing lists.
 
 Not only does opting out of junk mail keep your mailbox neat and tidy, but it also helps protect you against identity fraud—as junk mail is a common target for those seeking to steal personal information.&nbsp;
 
