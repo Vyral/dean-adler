@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Mortgage Video Blog with -- CLIENT NAME --
+title: Miami Mortgage Video Blog with Dean Adler
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for the -- MARKET -- mortgage process. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND --, your professional Mortgage Loan Originator.
 show_custom_links: false
 custom_links:
@@ -36,14 +36,14 @@ CTAs:
   first_CTA_text: Contact
   first_CTA_URL: https://deanadler.com/contact-us/
   second_CTA_text: Apply Now
-  second_CTA_URL: https://deanadler.com/wp-content/uploads/sites/4/2016/08/Short-Form-1003.pdf
+  second_CTA_URL: /apply-now/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Mortgage Application"
     CTA_text: 'Please complete the Mortgage Pre-Approval Application and email to <a href="mailto:deanadler@gmail.com">deanadler@gmail.com</a>.  If you have any questions, please call us at <a href="1-954-649-2960">954-649-2960</a>.'
     CTA_link_text: "Apply Now"
-    CTA_url: https://deanadler.com/wp-content/uploads/sites/4/2016/08/Short-Form-1003.pdf
+    CTA_url: /apply-now/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
