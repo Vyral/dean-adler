@@ -41,7 +41,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Mortgage Application"
-    CTA_text: 'Please complete the Mortgage Pre-Approval Application and email to <a href="mailto:deanadler@gmail.com">deanadler@gmail.com</a>.  If you have any questions, please call us at <a href="1-954-649-2960">954-649-2960</a>.'
+    CTA_text: 'Please complete the Mortgage Pre-Approval Application and email to <a href="mailto:Dadler@prmg.net">Dadler@prmg.net</a>.  If you have any questions, please call us at <a href="1-954-649-2960">954-649-2960</a>.'
     CTA_link_text: "Apply Now"
     CTA_url: /apply-now/
 
