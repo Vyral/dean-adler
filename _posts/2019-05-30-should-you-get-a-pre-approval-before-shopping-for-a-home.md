@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Get a Pre-Approval Before Shopping for a Home?
-date: 2019-05-30 17:31:45
+date: 2019-05-30 17:31:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/preapproved-email.jpg
-youtube_code: O1kcTqD1BMg
+youtube_code: '-sEtp2U8CgU'
 ---
 
 {% include youtube.html %}
@@ -27,7 +27,7 @@ First, **you need to know how much you qualify for.** Before you shop for a home
 
 {% include pullquote.html %}
 
-Second, **an experienced Realtor won’t take the time and effort to lead your home search if you aren’t pre-approved.** For them it’s a waste of time and a potential safety issue. If you’re already pre-approved, however, they know that a mortgage professional has your information on file and there’s less chance of a problem occurring.&nbsp;
+Second, **an experienced Realtor won’t take the time and effort to lead your home search if you aren’t pre-approved.** For them, it’s a waste of time and a potential safety issue. If you’re already pre-approved, however, they know that a mortgage professional has your information on file and there’s less chance of a problem occurring.&nbsp;
 
 Third, **a seller and their agent won’t entertain an offer without a pre-approval**—especially in a market where multiple-offer scenarios are common. A pre-approved buyer will beat out a non-pre-approved buyer every single time.&nbsp;
 
