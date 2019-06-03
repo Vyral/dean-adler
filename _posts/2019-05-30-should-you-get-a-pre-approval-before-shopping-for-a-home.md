@@ -21,7 +21,7 @@ youtube_code: '-sEtp2U8CgU'
 
 If you’re ready to buy a new home, you absolutely, positively should get a pre-approval before starting your home search.&nbsp;
 
-In fact, a successful home purchase all starts with a pre-approval and there are three main reasons why.&nbsp;
+In fact, a successful home purchase should always start with a pre-approval and there are three main reasons why.&nbsp;
 
 First, **you need to know how much you qualify for.** Before you shop for a home, there are several numbers to consider. For example, how much will your principal and interest be? What will your mortgage insurance be? During this process, the lender takes your debt and income into account and calculates how much home you can afford. If you don’t know what that number is, you’re rolling the dice as a buyer.&nbsp;
 
