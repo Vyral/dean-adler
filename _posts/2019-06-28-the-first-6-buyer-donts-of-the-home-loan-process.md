@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The First 6 Buyer Don’ts of the Home Loan Process
-date: 2019-06-28 18:55:59
+date: 2019-06-28 18:55:00
 tags:
   - Home Buyer Tips
 excerpt: >-
