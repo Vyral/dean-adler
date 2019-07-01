@@ -37,4 +37,4 @@ You’ve been pre-approved for a loan and you’ve found the home you hope to be
 
 **6\. Don’t buy furniture and/or appliances.** As touched on in No. 3, any purchase that could harm your debt-to-income ratio should be avoided at all costs. Wait to buy big-ticket items like furniture and appliances until after you close on the home.
 
-If you have any additional questions about today’s list, please get in touch with us. We’d be happy to help\! And stay tuned for part 2\!
+If you have any additional questions about today’s list, please get in touch with us. We’d be happy to help\! Keep an eye out for part two in this series coming soon\!
