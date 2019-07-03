@@ -25,7 +25,7 @@ You’ve been pre-approved for a loan and you’ve found the home you hope to be
 
 **1\. Don’t quit your job.** If you’re being forced to leave your job, immediately bring it to our attention and we’ll discuss how to proceed. During this time, stability is key. Few things will cause your lender to raise their eyebrow more than a disturbance in your employment situation.&nbsp;
 
-**2\. Don’t buy or lease a vehicle.** Every mortgage company performs what’s called a “soft pull” before closing, which is a basic inquiry into your other debt obligations. This is the wrong time to be taking on a new car payment. If your lease happens to be expiring, again, let us know immediately, and we may be able to grant you an extension. Whatever circumstances arise, we need to be able to document all pertinent details. &nbsp;
+**2\. Don’t buy or lease a vehicle.** Every mortgage company performs what’s called a “soft pull” before closing, which is a basic inquiry into your other debt obligations. This is the wrong time to be taking on a new car payment. If your lease happens to be expiring, again, let us know immediately, and you may be able to get an extension. Whatever circumstances arise, we need to be able to document all pertinent details. &nbsp;
 
 **3\. Don’t increase the balance(s) on your credit card(s).** Since you’ll be in a new home soon, now’s a great time to purchase some new items for it, right? Actually, no. We don’t want to do anything that could affect your loan-to-value ratio or damage your credit score in any manner. Before swiping your card, speak with us first.
 
@@ -35,6 +35,6 @@ You’ve been pre-approved for a loan and you’ve found the home you hope to be
 
 **5\. Don’t omit any liabilities.** Debts such as a private mortgage, child support, or alimony that might not be showing up on your credit report must be disclosed to us in advance. We don’t want to have to address some last-minute issue that comes to light.&nbsp;
 
-**6\. Don’t buy furniture and/or appliances.** As touched on in No. 3, any purchase that could harm your debt-to-income ratio should be avoided at all costs. Wait to buy big-ticket items like furniture and appliances until after you close on the home.
+**6\. Don’t buy furniture and/or appliances.** As touched on in No. 3, any purchase that could harm your debt-to-income ratio should be avoided at all costs. Wait to buy big-ticket items like furniture and appliances until after you close on your home.
 
 If you have any additional questions about today’s list, please get in touch with us. We’d be happy to help\! Keep an eye out for part two in this series coming soon\!
