@@ -19,7 +19,7 @@ youtube_code: fjtJqYa5WRY
 
 {% include youtube.html %}
 
-Welcome to the second part of my two-part series detailing what homebuyers shouldn’t do during the loan process. As you’ll remember, I listed the first six homebuyer don’ts in the first part. Here are the final six to round out the complete list:&nbsp;
+Welcome to the second part of my two-part series detailing what homebuyers shouldn’t do during the loan process. As you’ll remember, I listed the first six homebuyer don’ts [in the first part](https://blog.deanadler.com/the-first-6-buyer-donts-of-the-home-loan-process.html){: target="_blank"}. Here are the final six to round out the complete list:&nbsp;
 
 **7\. Don’t apply for more credit.** You don’t want to open any more accounts or have any more inquiries to explain. The next time you’re at a department store and they offer another 10% off if you sign up for another credit card, just say no.&nbsp;
 
