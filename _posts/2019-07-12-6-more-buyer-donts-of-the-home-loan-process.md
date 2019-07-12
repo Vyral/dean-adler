@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 More Buyer Don’ts of the Home Loan Process
-date: 2019-07-12 14:16:15
+date: 2019-07-12 14:16:00
 tags:
   - Real Estate
 excerpt: There are six more don’ts buyers need to keep in mind during the loan process.
