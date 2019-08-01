@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Credit Karma Isn’t Enough to Calculate Your Credit Score
-date: 2019-08-01 14:43:49
+date: 2019-08-01 14:43:00
 tags:
   - Real Estate
 excerpt: >-
