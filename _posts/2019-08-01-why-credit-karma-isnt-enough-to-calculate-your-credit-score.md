@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/a-fFjA7pK0g'
 
 Over the past 25 years, I’ve been asked hundreds of questions about the difference between pulling your own credit score and having a professional such as myself do it.&nbsp;
 
-Specifically, people oftentimes wonder why these two scores are usually so different, and why the score they pull themselves isn’t anywhere close to the score that gets used when applying for a mortgage.&nbsp;
+Specifically, people oftentimes wonder why these two scores are usually so different, and why the score they pull themselves isn’t anywhere close to the score that gets used when they're applying for a mortgage.&nbsp;
 
 To explain this, I’ll compare how Credit Karma—the most popular credit scoring system—calculates their credit scores with how we do it. Credit Karma is a free service that allows you to monitor your credit score, but there’s a saying that applies here: You get what you pay for.&nbsp;
 
