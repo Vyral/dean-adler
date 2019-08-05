@@ -28,11 +28,11 @@ To explain this, I’ll compare how Credit Karma—the most popular credit scori
 
 {% include pullquote.html %}
 
-Since Credit Karma is a for-profit company and they give you your credit report for free, they make money by selling advertising space based on the information they gather to target consumers. By running your credit report, they can monitor your spending habits. They have around 40 million subscribers, so this model is doing quite well for them
+Since Credit Karma is a for-profit company and they give you your credit report for free, they make money by selling advertising space based on the information they gather to target consumers. By running your credit report, they can monitor your spending habits. They have around 40 million subscribers, so this model is doing quite well for them.
 
-What makes it inaccurate, though? **They use VantageScore as their scoring model, whereas the majority of lenders use a FICO score, and there are many different versions of a FICO score**—at least 28. For a single buyer, we may use a FICO Score 5 in Equifax, a FICO Score 2 in Experien, and a FICO Score 4 in TransUnion. This can get confusing because when you apply for a credit card, your bank might use Bankcard FICO Score 8.&nbsp;
+What makes it inaccurate, though? **They use VantageScore as their scoring model, whereas the majority of lenders use a FICO score, and there are many different versions of a FICO score**—at least 28. For a single buyer, we may use a FICO Score 5 in Equifax, a FICO Score 2 in Experian, and a FICO Score 4 in TransUnion. This can get confusing because when you apply for a credit card, your bank might use Bankcard FICO Score 8.&nbsp;
 
-**So if you decide to shop for a house, make sure you have your credit pulled by a lender so you get an accurate score.** This is what’s required by Fannie Made, FHA, and Freddie Mac on the secondary market where mortgages are bought and sold.&nbsp;
+**So if you decide to shop for a house, make sure you have your credit pulled by a lender so you get an accurate score.** This is what’s required by Fannie Mae, FHA, and Freddie Mac on the secondary market where mortgages are bought and sold.&nbsp;
 
 To be fair, companies like Credit Karma are useful in terms of monitoring your credit. When it comes to finding out your credit score to obtain a mortgage, though, you’ll need to take a different route.
 
