@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you need an accurate estimation of your credit score, you’re better off
   asking a lender rather than relying on Credit Karma.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dean+Adler/7+-+July+2+Credit+Scores+for+Mortgages.mp4
 pullquote: >-
   Credit Karma is a free service that allows you to monitor your credit score,
   but there’s a saying that applies here: You get what you pay for.
