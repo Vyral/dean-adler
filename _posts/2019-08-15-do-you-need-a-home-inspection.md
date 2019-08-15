@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Need a Home Inspection?
-date: 2019-08-15 13:52:26
+date: 2019-08-15 13:52:00
 tags:
   - Home Buyer Tips
 excerpt: Getting a home inspection is a good idea for all homebuyers. Here’s why.
