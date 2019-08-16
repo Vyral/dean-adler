@@ -24,7 +24,7 @@ When it comes to insurance, that’s a different story. You’re definitely goin
 
 {% include pullquote.html %}
 
-**A four-point inspection will be required if the house is over 25 or 30 years old.** This will look at the electric, plumbing, roof, HVAC, and ventialigno in the property.
+**A four-point inspection will be required if the house is over 25 or 30 years old.** This will look at the electric, plumbing, roof, HVAC, and ventilation in the property.
 
 Although an inspection is not generally required, I always recommend getting one. According to the National Association of Realtors, 85% of buyers are getting home inspections. This is one of the times where I completely agree with the majority.
 
