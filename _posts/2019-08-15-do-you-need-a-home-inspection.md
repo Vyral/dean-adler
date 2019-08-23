@@ -5,7 +5,8 @@ date: 2019-08-15 13:52:00
 tags:
   - Home Buyer Tips
 excerpt: Getting a home inspection is a good idea for all homebuyers. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dean+Adler/Do+You+Need+a+Home+Inspection_.mp4
 pullquote: I always recommend a home inspection.
 enclosure_type: video/mp4
 enclosure_time:
