@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Today’s Rates & the Opportunities Before You
-date: 2019-09-09 13:46:14
+date: 2019-09-09 13:46:00
 tags:
   - Real Estate
 excerpt: >-
