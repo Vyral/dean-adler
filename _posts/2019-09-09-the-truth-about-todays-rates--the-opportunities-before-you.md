@@ -34,7 +34,7 @@ You know those advertisements you see announcing interest rates that are too low
 
 {% include pullquote.html %}
 
-I liken this to the commercial featuring a salesman talking incomprehensibly fast. In both cases, you must **always make sure to understand your terms and requirements first.** Using the example above, if your credit score is, say, 620 or 680, your interest rate won’t be the same as it would be at the 760-mark.&nbsp;
+I liken this to the commercial featuring a salesman talking incomprehensibly fast. In both cases, you must **always make sure to understand your terms and requirements first.** Using the example above, if your credit score is, say, 620 or 680, your interest rate won’t be the same as it would be at the 760 mark.&nbsp;
 
 Ultimately, **your rate will vary based on a host of factors.** Maybe you’re refinancing as opposed to purchasing, you’re buying an investment property as opposed to a primary residence, or you’re putting down 20%, 10%, or 5% versus the full 30%. And of course, the type of loan you’re applying for makes a difference as well. &nbsp; &nbsp;
 
