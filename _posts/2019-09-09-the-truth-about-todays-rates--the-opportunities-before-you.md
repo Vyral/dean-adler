@@ -7,15 +7,16 @@ tags:
 excerpt: >-
   Given our current low interest rates, is now the time to make your move? The
   answer isn’t the same for everyone.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+Truth+About+Todays+Rates+%26+the+Opportunities+Before+You.mp4
 pullquote: >-
   There’s no one-size-fits-all answer and our low-rate environment means
   different things for different people.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/9-6---dean-adler---youtube.jpg
-youtube_code: 'https://youtu.be/Ip6vjkSpq-s'
+youtube_code: tB8St5q-Gr8
 ---
 
 {% include youtube.html %}
