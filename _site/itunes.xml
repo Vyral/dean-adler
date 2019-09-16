@@ -4,10 +4,10 @@
     <title>Miami Real Estate Podcast with Dean Adler</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Paramount Residential Mortgage Group, Inc. - your professional Miami Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Hamilton Group Funding - your professional Miami Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dean Adler</managingEditor>
-    <lastBuildDate>2019-04-01 12:03:58 -0500</lastBuildDate>
+    <lastBuildDate>2019-09-16 11:32:05 -0500</lastBuildDate>
     <media:copyright>Dean Adler</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -21,51 +21,324 @@
     <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Miami Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Paramount Residential Mortgage Group, Inc. - your professional Miami Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Hamilton Group Funding - your professional Miami Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
+        <title>The Truth About Today’s Rates & the Opportunities Before You</title>
+        <link>http://localhost:4000/the-truth-about-todays-rates-the-opportunities-before-you.html</link>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>Dean Adler</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2019-09-09 08:46:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+Truth+About+Todays+Rates+%26+the+Opportunities+Before+You.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+What are interest rates doing today? That question has been popping up a lot lately, and it’s given rise to all sorts of others: 
 
 
+  Is it a good time to refinance? 
+  Is it a good time to pay off your student loans or consolidate your debts? 
+  Is it a good time to get rid of that Ygrene loan you never should have applied for? 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
 
-“This is an example of a pull quote”
+Well, there’s a lot to unpack there, and because it depends on your specific situation and needs, I can’t provide a simple yes or no answer. My first bit of advice, though, is to speak with your mortgage professional. Only then will you know what options are available to you and how each of them will affect your interest rates.   
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Years ago, Fannie Mae and Freddie Mac with their conventional loans along with the FHA and VA with their respective loan options came out with something called ‘risk-based pricing.’ This methodology has shaped the way these financial institutions handle consumer rates ever since. 
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+You know those advertisements you see announcing interest rates that are too low to be true? Once you squint your eyes and read the fine print, you’ll see the actual requirements: a minimum credit score of 760 or a minimum $300,000 loan amount for a single-family home. You might also see a 1% origination fee.
+
+“There’s no one-size-fits-all answer and our low-rate environment means different things for different people.”
+
+I liken this to the commercial featuring a salesman talking incomprehensibly fast. In both cases, you must always make sure to understand your terms and requirements first. Using the example above, if your credit score is, say, 620 or 680, your interest rate won’t be the same as it would be at the 760 mark. 
+
+Ultimately, your rate will vary based on a host of factors. Maybe you’re refinancing as opposed to purchasing, you’re buying an investment property as opposed to a primary residence, or you’re putting down 20%, 10%, or 5% versus the full 30%. And of course, the type of loan you’re applying for makes a difference as well.    
+
+The bottom line is that there’s no one-size-fits-all answer and our current low-rate environment means different things for different people. It all boils down to what your objectives are. 
+
+If you have any questions about today’s interest rates or any mortgage-related questions, please reach out to me and my team. We look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+Truth+About+Todays+Rates+%26+the+Opportunities+Before+You.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+Truth+About+Todays+Rates+%26+the+Opportunities+Before+You.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Given our current low interest rates, is now the time to make your move? The answer isn’t the same for everyone.</itunes:subtitle>
         <itunes:author>Dean Adler</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Given our current low interest rates, is now the time to make your move? The answer isn’t the same for everyone.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>Do You Need a Home Inspection?</title>
+        <link>http://localhost:4000/do-you-need-a-home-inspection.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dean Adler</author>
+        <pubDate>2019-08-15 08:52:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dean+Adler/Do+You+Need+a+Home+Inspection_.mp4</guid>
+        <description>
+
+When you’re buying a house, the only way to know its true condition is by getting a professional home inspector out there. They will check for leaks, structural damage, and any other health and safety issues that you might not see.
+
+If you’re getting a mortgage, a home inspection isn’t necessarily required. The lender actually relies on the appraiser more. If an appraiser identifies issues, they know they have a problem and will request an inspection. Otherwise, there’s no purpose in providing one unless they ask for it.
+
+When it comes to insurance, that’s a different story. You’re definitely going to want to have a wind mitigation inspection and potentially a four-point inspection. A wind mitigation is going to cover the things that would relate to hurricane damage. They will look at whether you have shutters, impact windows, or your roof is strapped on properly.
+
+“I always recommend a home inspection.”
+
+A four-point inspection will be required if the house is over 25 or 30 years old. This will look at the electric, plumbing, roof, HVAC, and ventilation in the property.
+
+Although an inspection is not generally required, I always recommend getting one. According to the National Association of Realtors, 85% of buyers are getting home inspections. This is one of the times where I completely agree with the majority.
+
+If you have any other questions about home inspections or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/Do+You+Need+a+Home+Inspection_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/Do+You+Need+a+Home+Inspection_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Getting a home inspection is a good idea for all homebuyers. Here’s why.</itunes:subtitle>
+        <itunes:author>Dean Adler</itunes:author>
+        <itunes:summary>Getting a home inspection is a good idea for all homebuyers. Here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Credit Karma Isn’t Enough to Calculate Your Credit Score</title>
+        <link>http://localhost:4000/why-credit-karma-isnt-enough-to-calculate-your-credit-score.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dean Adler</author>
+        <pubDate>2019-08-01 09:43:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dean+Adler/7+-+July+2+Credit+Scores+for+Mortgages.mp4</guid>
+        <description>
+
+Over the past 25 years, I’ve been asked hundreds of questions about the difference between pulling your own credit score and having a professional such as myself do it. 
+
+Specifically, people oftentimes wonder why these two scores are usually so different, and why the score they pull themselves isn’t anywhere close to the score that gets used when they’re applying for a mortgage. 
+
+To explain this, I’ll compare how Credit Karma—the most popular credit scoring system—calculates their credit scores with how we do it. Credit Karma is a free service that allows you to monitor your credit score, but there’s a saying that applies here: You get what you pay for. 
+
+“Credit Karma is a free service that allows you to monitor your credit score, but there’s a saying that applies here: You get what you pay for.”
+
+Since Credit Karma is a for-profit company and they give you your credit report for free, they make money by selling advertising space based on the information they gather to target consumers. By running your credit report, they can monitor your spending habits. They have around 40 million subscribers, so this model is doing quite well for them.
+
+What makes it inaccurate, though? They use VantageScore as their scoring model, whereas the majority of lenders use a FICO score, and there are many different versions of a FICO score—at least 28. For a single buyer, we may use a FICO Score 5 in Equifax, a FICO Score 2 in Experian, and a FICO Score 4 in TransUnion. This can get confusing because when you apply for a credit card, your bank might use Bankcard FICO Score 8. 
+
+So if you decide to shop for a house, make sure you have your credit pulled by a lender so you get an accurate score. This is what’s required by Fannie Mae, FHA, and Freddie Mac on the secondary market where mortgages are bought and sold. 
+
+To be fair, companies like Credit Karma are useful in terms of monitoring your credit. When it comes to finding out your credit score to obtain a mortgage, though, you’ll need to take a different route.
+
+If you have any questions about this or any other mortgage topic, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/7+-+July+2+Credit+Scores+for+Mortgages.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/7+-+July+2+Credit+Scores+for+Mortgages.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you need an accurate estimation of your credit score, you’re better off asking a lender rather than relying on Credit Karma.</itunes:subtitle>
+        <itunes:author>Dean Adler</itunes:author>
+        <itunes:summary>If you need an accurate estimation of your credit score, you’re better off asking a lender rather than relying on Credit Karma.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>6 More Buyer Don’ts of the Home Loan Process</title>
+        <link>http://localhost:4000/6-more-buyer-donts-of-the-home-loan-process.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dean Adler</author>
+        <pubDate>2019-07-12 09:16:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dean+Adler/6+More+Buyer+Donts+of+the+Home+Loan+Process.mp4</guid>
+        <description>
+
+Welcome to the second part of my two-part series detailing what homebuyers shouldn’t do during the loan process. As you’ll remember, I listed the first six homebuyer don’ts in the first part. Here are the final six to round out the complete list: 
+
+7. Don’t apply for more credit. You don’t want to open any more accounts or have any more inquiries to explain. The next time you’re at a department store and they offer another 10% off if you sign up for another credit card, just say no. 
+
+8. Don’t make any large deposits or cash deposits. If you make a large deposit we can track that comes from an approvable source, that’s fine, but you’ll still want to check with us first. Otherwise, avoid any large deposits or moving money from one account to another. 
+
+9. Don’t cosign for any loans. If you cosign for someone else’s loan, or credit card, or car payment, it’s your liability too, and this can affect your credit score.
+
+“You should never make any late payments, but this is especially important to avoid during the loan process.”
+
+10. Don’t make any late payments. You should never make any late payments, but this is especially important to avoid during the loan process. Your lender will do a soft credit pull late in the process, and any late payments will harm your credit score. 
+
+11. Don’t pay any collections or charge-offs. This is another item where you’d be well-advised to speak with us first before making a move. Think of it as a beehive—if you leave it alone, it’ll leave you alone. 
+
+12. Don’t avoid speaking with your mortgage professional about any of these items. As I’ve already said multiple times: We’re here to help you.
+
+As always, if you have any more questions about this or any other mortgage-related topic, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/6+More+Buyer+Donts+of+the+Home+Loan+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/6+More+Buyer+Donts+of+the+Home+Loan+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are six more don’ts buyers need to keep in mind during the loan process.</itunes:subtitle>
+        <itunes:author>Dean Adler</itunes:author>
+        <itunes:summary>There are six more don’ts buyers need to keep in mind during the loan process.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The First 6 Buyer Don’ts of the Home Loan Process</title>
+        <link>http://localhost:4000/the-first-6-buyer-donts-of-the-home-loan-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dean Adler</author>
+        <pubDate>2019-06-28 13:55:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+First+6+Buyer+Donts+of+the+Home+Loan+Process.mp4</guid>
+        <description>
+
+You’ve been pre-approved for a loan and you’ve found the home you hope to be moving into very soon. Great! The process is far from over, though, and there are some major missteps you’ll want to avoid as you get closer to closing. 
+
+1. Don’t quit your job. If you’re being forced to leave your job, immediately bring it to our attention and we’ll discuss how to proceed. During this time, stability is key. Few things will cause your lender to raise their eyebrow more than a disturbance in your employment situation. 
+
+2. Don’t buy or lease a vehicle. Every mortgage company performs what’s called a “soft pull” before closing, which is a basic inquiry into your other debt obligations. This is the wrong time to be taking on a new car payment. If your lease happens to be expiring, again, let us know immediately, and you may be able to get an extension. Whatever circumstances arise, we need to be able to document all pertinent details.  
+
+3. Don’t increase the balance(s) on your credit card(s). Since you’ll be in a new home soon, now’s a great time to purchase some new items for it, right? Actually, no. We don’t want to do anything that could affect your loan-to-value ratio or damage your credit score in any manner. Before swiping your card, speak with us first.
+
+“Few things will cause your lender to raise their eyebrow more than a disturbance in your employment situation.”
+
+4. Don’t use the money you set aside for your down payment and closing costs. As obvious as this sounds, make sure you aren’t dipping into those funds for any reason whatsoever. 
+
+5. Don’t omit any liabilities. Debts such as a private mortgage, child support, or alimony that might not be showing up on your credit report must be disclosed to us in advance. We don’t want to have to address some last-minute issue that comes to light. 
+
+6. Don’t buy furniture and/or appliances. As touched on in No. 3, any purchase that could harm your debt-to-income ratio should be avoided at all costs. Wait to buy big-ticket items like furniture and appliances until after you close on your home.
+
+If you have any additional questions about today’s list, please get in touch with us. We’d be happy to help! Keep an eye out for part two in this series coming soon!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+First+6+Buyer+Donts+of+the+Home+Loan+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+First+6+Buyer+Donts+of+the+Home+Loan+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In the first of my two-part series on what not to do during the home loan process, I’ll reveal the first six don’ts.</itunes:subtitle>
+        <itunes:author>Dean Adler</itunes:author>
+        <itunes:summary>In the first of my two-part series on what not to do during the home loan process, I’ll reveal the first six don’ts.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Are Escrow Accounts & How Do They Work?</title>
+        <link>http://localhost:4000/what-are-escrow-accounts-how-do-they-work.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dean Adler</author>
+        <pubDate>2019-06-13 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+Dean+Adler+Team-+What+Are+Escrow+Accounts+%26+How+Do+They+Work_.mp4</guid>
+        <description>
+
+What is an escrow account and how does it work? Look no further than today’s message for the answer to those questions. 
+
+Essentially, an escrow account acts as a sort of savings account to hold your taxes and insurances for your lender so that they can make payments at the end of the year on your behalf.
+
+Once the money has been deposited, the lender will collect one-twelfth of your taxes and insurances month to month. This way, when your respective bill is due, they can make the payment for those items.
+
+The due dates for each oftentimes don’t fall on the same day; traditionally, your insurance payment must be made on the anniversary of your purchase, whereas, here in Florida, taxes are typically due sometime in November.   
+
+“An escrow account acts as a sort of savings account to hold your taxes and insurances for your lender so that they can make payments at the end of the year on your behalf.”
+
+In actuality, taxes in Florida are due in the month of March, but you’re allowed a discount of 1% for every month your taxes are paid early. The maximum allowance for months paid in advance is four. Your lender will be sure to make the payment in November so as to give you the maximum discount. 
+
+Money set aside in an escrow account gives the lender peace of mind that taxes can be paid in a punctual manner and that no lien is tacked onto the property. As far as insurance goes, they’ll have peace of mind that the property is safeguarded against the potential for uninsured damages that they’ll have issues collecting money on. 
+
+What benefit, then, does an escrow account carry for you, the borrower? 
+
+Consider this as a method of budgeting your tax and insurance payments, so that you’re not left to foot a giant tax and/or insurance bill at the end of the year. These accounts are required if you’re purchasing through an FHA or VA loan, no matter what your down payment will be. 
+
+If you’re buying via a conventional loan with less than 20% down, you’ll also be required to open an escrow account. You’ll only be afforded the option to waive your escrow when your down payment is greater than 20% on a conventional loan. In that case, any tax or insurance bills will come straight to you for payment, rather than your lender.   
+
+If you have any additional questions concerning escrow accounts and how they work or if you have any real estate- or mortgage-related questions, please contact us. We’d be happy to help!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+Dean+Adler+Team-+What+Are+Escrow+Accounts+%26+How+Do+They+Work_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dean+Adler/The+Dean+Adler+Team-+What+Are+Escrow+Accounts+%26+How+Do+They+Work_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Sure, you’ve heard the term “escrow account,” but do you know what it is and what benefit it carries for you, the borrower? Find out in today’s message.</itunes:subtitle>
+        <itunes:author>Dean Adler</itunes:author>
+        <itunes:summary>Sure, you’ve heard the term “escrow account,” but do you know what it is and what benefit it carries for you, the borrower? Find out in today’s message.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You Get a Pre-Approval Before Shopping for a Home?</title>
+        <link>http://localhost:4000/should-you-get-a-pre-approval-before-shopping-for-a-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dean Adler</author>
+        <pubDate>2019-05-30 12:31:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dean+Adler/Should+You+Get+a+Pre-Approval+Before+Shopping+for+a+Home_.mp4</guid>
+        <description>
+
+If you’re ready to buy a new home, you absolutely, positively should get a pre-approval before starting your home search. 
+
+In fact, a successful home purchase should always start with a pre-approval and there are three main reasons why. 
+
+First, you need to know how much you qualify for. Before you shop for a home, there are several numbers to consider. For example, how much will your principal and interest be? What will your mortgage insurance be? How much are taxes, homeowner’s insurance, mortgage insurance and HOA fees? During this process, the lender takes your debt and income into account and calculates how much home you can afford. If you don’t know what that number is, you’re rolling the dice as a buyer. 
+
+“A pre-approved buyer will beat out a non pre-approved buyer every single time.”
+
+Second, an experienced Realtor won’t take the time and effort to take you home shopping if you aren’t pre-approved. For them, it’s a waste of time and a potential safety issue. If you’re already pre-approved, however, they know that a mortgage professional has your information on file and there’s less chance of a problem occurring. 
+
+Third, a seller and their agent won’t entertain an offer without a pre-approval—especially in a market where multiple-offer scenarios are common. A pre-approved buyer will beat out a non-pre-approved buyer every time. 
+
+If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me, I’d be happy to help you. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dean+Adler/Should+You+Get+a+Pre-Approval+Before+Shopping+for+a+Home_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dean+Adler/Should+You+Get+a+Pre-Approval+Before+Shopping+for+a+Home_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You need a pre-approval from a mortgage professional before shopping for a house, and there are three reasons why.</itunes:subtitle>
+        <itunes:author>Dean Adler</itunes:author>
+        <itunes:summary>You need a pre-approval from a mortgage professional before shopping for a house, and there are three reasons why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Cut Down On Your Junk Mail</title>
+        <link>http://localhost:4000/how-to-cut-down-on-your-junk-mail.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dean Adler</author>
+        <pubDate>2019-05-17 15:01:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dean+Adler/How+to+Cut+Down+On+Your+Junk+Mail.mp4</guid>
+        <description>
+
+Today’s question comes from Mr. Richard Fader of Fort Lee, New Jersey. Richard’s question is one I’m sure we’ve all wondered at some point: “What can I do about all of the junk mail I receive?” That’s a great question, and, thankfully, there is something you can do to cut back the spam and keep your mailbox clutter-free. 
+
+The main issue is that Equifax, Transunion, and Experion are selling our information to lenders, credit card companies, and insurance companies. 
+
+“Not only does opting out of junk mail keep your mailbox neat and tidy, but it also helps protect you against identity fraud.”
+
+You have a couple of ways you can remove your name from the mailing lists that junk-mail senders rely on: 
+
+1. Visit www.optoutprescreen.com. This web portal, run by the three major credit bureaus I mentioned earlier, allows you to opt out for a five-year period or for life. 
+
+2. Call 888-5OP-TOUT (888-567-8688). This number will direct you to the same portal as the website I mentioned earlier. However, by calling this line, you can only choose to opt out for a five-year period. Be prepared to answer a few personal questions when you make this call. But don’t worry—this information will never be shared. It will simply be used to remove you from their mailing lists.
+
+Not only does opting out of junk mail keep your mailbox neat and tidy, but it also helps protect you against identity fraud—as junk mail is a common target for those seeking to steal personal information. 
+
+If you have any other questions or would like more information, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dean+Adler/How+to+Cut+Down+On+Your+Junk+Mail.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dean+Adler/How+to+Cut+Down+On+Your+Junk+Mail.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Are you tired of junk mail? Then this message is for you.</itunes:subtitle>
+        <itunes:author>Dean Adler</itunes:author>
+        <itunes:summary>Are you tired of junk mail? Then this message is for you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Welcome To My Blog!</title>
+        <link>http://localhost:4000/welcome-to-my-blog.html</link>
         
           <category>Market Update</category>
         
@@ -74,53 +347,31 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
           <category>Home Seller Tips</category>
         
         <author>Dean Adler</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2019-04-17 19:00:00 -0500</pubDate>
         <guid></guid>
-        <description>
+        <description>I know how to guide you through a changing marketplace to help you locate the best home and the best financing for your needs.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+I plan to post two helpful messages a month to keep you updated on everything that’s going on with mortgage programs and the real estate world as a whole. 
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+They will be valuable and useful to help you stay on top of what’s happening in the lending community.
 
+Check back because content will be coming soon.
 
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+I’m excited to keep you updated on what’s going on in the lending world!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="" length="" type=""/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="" type=""/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>My monthly messages will provide you with mortgage programs, financing, and the real estate market as a whole.</itunes:subtitle>
         <itunes:author>Dean Adler</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>My monthly messages will provide you with mortgage programs, financing, and the real estate market as a whole.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Dean Adler</copyright>
     <media:credit role="author">Dean Adler</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Paramount Residential Mortgage Group, Inc. - your professional Miami Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Hamilton Group Funding - your professional Miami Real Estate Agents.</media:description>
   </channel>
 </rss>
