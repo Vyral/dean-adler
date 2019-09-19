@@ -14,7 +14,7 @@ client:
   name: Dean Adler
   title: Mortgage Loan Originator
   license_number: NMLS 110615
-  about_markdown: |
+  about_markdown: |p
     Dean Adler has been a South Florida resident since 1973, originally residing in Miami-Dade County, then moving to Broward County over 30 years ago.
     In the 1980’s Dean became the youngest Police Officer for the City of Miami Beach at age 19, ultimately retiring early due to an on-the-job injury.
     Dean is currently a Mortgage Loan Originator with Paramount Residential Mortgage Group, Inc. (PRMG) in Sunrise, Florida specializing in residential purchases and refinances.  He focuses on his Law Enforcement roots through relationships with Police Officers, Firefighters, Veterans and their family members.
@@ -41,14 +41,14 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Mortgage Application"
-    CTA_text: 'Please complete the Mortgage Pre-Approval Application and email to <a href="mailto:Dadler@prmg.net">Dadler@prmg.net</a>.  If you have any questions, please call us at <a href="1-954-649-2960">954-649-2960</a>.'
+    CTA_text: 'Please complete the Mortgage Pre-Approval Application and email to <a href="mailto:Dean.Adler@HGFloans.com">Dean.Adler@HGFloans.com</a>.  If you have any questions, please call us at <a href="1-954-649-2960">954-649-2960</a>.'
     CTA_link_text: "Apply Now"
     CTA_url: /apply-now/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Contact Us today"
-    CTA_text2: "Dean Adler, NMLS 110615 Loan Originator at PRMG, Inc."
+    CTA_text2: "Dean Adler, NMLS 110615 Loan Originator at Hamilton Group Funding"
     CTA_link_text2: "Contact"
     CTA_url2: https://deanadler.com/contact-us/
 
