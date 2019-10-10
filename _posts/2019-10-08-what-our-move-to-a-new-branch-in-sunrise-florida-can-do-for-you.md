@@ -20,6 +20,8 @@ youtube_code: 5oTPctA1k4o
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>We’ve opened a new branch in Sunrise, Florida, and this means great changes for you!</em></p>
+
 I have an exciting announcement\! **I’ve had a unique opportunity to open a brand new branch with Hamilton Group Funding in Sunrise, Florida\!**
 
 We have over 30,000 square feet available here. So, what does this mean for you? My branch is 20 feet away from the underwriting department; if I walk down the hall a bit I’ve got the marketing department, further down the hall is the closing department and the funding department. Everything is under one roof. All departments are close, and we’re able to help you get through the loan process as quickly and efficiently as possible.&nbsp;
