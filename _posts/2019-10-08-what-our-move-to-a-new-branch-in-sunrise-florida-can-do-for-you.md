@@ -20,7 +20,7 @@ youtube_code: _1z7kKfctGE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We’ve opened a new branch in Sunrise, Florida, and this means great changes for you!</em></p>
+*We’ve opened a new branch in Sunrise, Florida, and this means great changes for you\!*
 
 I have an exciting announcement\! **I’ve had a unique opportunity to open a brand new branch with Hamilton Group Funding in Sunrise, Florida\!**
 
@@ -28,7 +28,7 @@ We have over 30,000 square feet available here. So, what does this mean for you?
 
 {% include pullquote.html %}
 
-I’ve also been able to keep my original team intact, as well as grow it further. One of the biggest reasons for this change is that Hamilton Group Funding has a product that enables us to have no fees for my prior clients, as well as a product called Hamilton Heros which requires no lender fees for policemen, firemen, and veterans.&nbsp;
+I’ve also been able to keep my original team intact, as well as grow it further. One of the biggest reasons for this change is that Hamilton Group Funding has a product that enables us to have no fees for my prior clients, as well as a product called Hamilton Heroes which requires no lender fees for policemen, firemen, and veterans.&nbsp;
 
 So, **prior clients, policemen, firemen, and veterans will receive no lender fees, underwriting, doc prep, or application fees.** A savings of $1,500 or more immediately\!
 
