@@ -20,7 +20,7 @@ youtube_code: _1z7kKfctGE
 
 {% include youtube.html %}
 
-*We’ve opened a new branch in Sunrise, Florida, and this means great changes for you\!*
+<p style="text-align: center;"><em>We’ve opened a new branch in Sunrise, Florida, and this means great changes for you!</em></p>
 
 I have an exciting announcement\! **I’ve had a unique opportunity to open a brand new branch with Hamilton Group Funding in Sunrise, Florida\!**
 
