@@ -14,13 +14,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/dean-adler-hgf-announcement-youtube.png
+youtube_alternate_image: /uploads/dean-adler-hgf-announcement-youtube-1.png
 youtube_code: _1z7kKfctGE
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We’ve opened a new branch in Sunrise, Florida, and this means great changes for you!</em></p>
+*We’ve opened a new branch in Sunrise, Florida, and this means great changes for you\!*
 
 I have an exciting announcement\! **I’ve had a unique opportunity to open a brand new branch with Hamilton Group Funding in Sunrise, Florida\!**
 
