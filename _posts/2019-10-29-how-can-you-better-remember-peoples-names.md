@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/ce2s5hJtPUE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>What’s the trick to remembering people’s names? Here’s a tip I learned from a pro.</em></p>
+
 Dale Carnegie once said that a person’s name is to that person the sweetest, most important sound in any language.&nbsp;
 
 I took a Dale Carnegie class when I was 22 years old, and the first night we practiced memorizing names. There were 50 people in that class, and **they taught us a technique that helped me to remember all 50 names by the end of the night.**&nbsp;
