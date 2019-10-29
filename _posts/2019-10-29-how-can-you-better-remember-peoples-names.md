@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Better Remember Peoples’ Names?
-date: 2019-10-29 16:18:34
+date: 2019-10-29 16:18:00
 tags:
   - Real Estate
 excerpt: >-
