@@ -33,7 +33,7 @@ Someone recently asked me for help with remembering names to spare them any emba
 
 1. Truly listen to the person when they say their name.
 2. Repeat the person’s name as you look them in the eye.
-3. Come up with a visual to associate with their name. For my part, I was “Dean, Dean, the Jumping Jellybean;” if you made the jellybean purple, so much the better. People would envision me jumping up and down to help them remember my name, and it worked\!
+3. Come up with a visual to associate with their name. For my part, I was “Dean, Dean, the Jumping Jellybean”; if you made the jellybean purple, so much the better. People would envision me jumping up and down to help them remember my name, and it worked\!
 
 {% include pullquote.html %}
 
