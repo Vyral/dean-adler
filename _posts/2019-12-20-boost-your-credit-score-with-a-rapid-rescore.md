@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boost Your Credit Score With a Rapid Rescore
-date: 2019-12-20 19:33:42
+date: 2019-12-20 19:33:00
 tags:
   - Real Estate
 excerpt: 'By using a rapid rescore, you can increase your credit score.'
