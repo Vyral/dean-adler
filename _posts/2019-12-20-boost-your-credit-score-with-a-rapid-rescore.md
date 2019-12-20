@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/MZ4Ikn6MNyw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>By using a rapid rescore, you can increase your credit score.</em></p>
+
 If you have a low credit score, **a rapid rescore can show you how to rebuild it and qualify for a better mortgage loan.** In fact, I recently used a rapid rescore for a couple clients of mine, and it helped them boost their credit.&nbsp;
 
 The first client had a score of about 570. At that mark, that eliminates the possibility of getting a conventional loan and means they’d have to get an FHA loan at a fairly high rate. By using the rapid rescore, though, I saw that they could increase their score. Specifically, this client had some medical bills, and we determined that if those bills could be paid off and deleted, their score would increase into the 720 to 740 range.&nbsp;
